@@ -1,0 +1,5 @@
+{:queries
+ {:hello
+  {:type        String
+   :description "Hello, GreenLabs!"
+   :resolve     :hello}}}
