@@ -1,7 +1,7 @@
 (ns resolver)
 
 (defn hello [_ _ _]
-  {:data "Hello, GreenLabs!"})
+  "Hello, GreenLabs!")
 
 
 
