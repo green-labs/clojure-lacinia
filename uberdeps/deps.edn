@@ -1,0 +1,2 @@
+{:deps {uberdeps/uberdeps   {:mvn/version "1.0.4"}
+        org.clojure/clojure {:mvn/version "1.10.0"}}}
